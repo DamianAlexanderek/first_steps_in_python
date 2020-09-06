@@ -22,5 +22,8 @@ def title_case(title, minor_words=''):
             new_title.append(i.title())
     return " ".join(new_title)
 
+# def title_case(title, minor_words=''):
+#     return ' '.join(w if w in minor_words.lower().split() and i else w.capitalize() for i, w in enumerate(title.lower().split()))
+
 print(title_case('a clash of KINGS', 'a an the of'))
 print(title_case('THE WIND IN THE WILLOWS', 'The In'))
