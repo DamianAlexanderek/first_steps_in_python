@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ad5b1ca-5c6b-4389-a81f-40fd2a3b0c04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/Srednia arytmetyczna.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Codewars/title_case.py" afterDir="false" />
+    <list default="true" id="1ad5b1ca-5c6b-4389-a81f-40fd2a3b0c04" name="Default Changelist" comment="new exercises">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First steps/Weather.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python zadania.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python zadania.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/palindrom.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/palindrom.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/First steps/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/First steps/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/First steps/data4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/First steps/data4.txt" afterDir="false" />
     </list>
@@ -24,20 +44,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="cd4d2a23-f9b2-49d7-b2e7-03f548cbc6d1" />
   <component name="ProjectId" id="1fYPY2cqBkI9CoDhkYelQDRBRfU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projekty" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.title_case">
-    <configuration name="Srednia arytmetyczna" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.palindrom">
+    <configuration name="Right_in_the_Center" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python zadania" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,7 +71,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/Srednia arytmetyczna.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/Right_in_the_Center.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,28 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aaaaaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python zadania" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codewars" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/aaaaaa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="euro_exchange_rate (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python zadania" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +93,52 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First steps/euro_exchange_rate.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First steps/Tic_tac_toe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="palindrom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python zadania" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercises/palindrom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="powerfullcolours_stones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python zadania" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codewars" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/powerfullcolours_stones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,11 +154,12 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/First steps" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/First steps/python_bot1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -121,37 +169,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="title_case" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python zadania" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Codewars" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codewars/title_case.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+    <list>
+      <item itemvalue="Python.python_bot1" />
+      <item itemvalue="Python.Tic_tac_toe" />
+      <item itemvalue="Python.powerfullcolours_stones" />
+      <item itemvalue="Python.Right_in_the_Center" />
+      <item itemvalue="Python.palindrom" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.title_case" />
-        <item itemvalue="Python.aaaaaa" />
-        <item itemvalue="Python.Srednia arytmetyczna" />
+        <item itemvalue="Python.palindrom" />
+        <item itemvalue="Python.Tic_tac_toe" />
+        <item itemvalue="Python.Right_in_the_Center" />
+        <item itemvalue="Python.powerfullcolours_stones" />
         <item itemvalue="Python.python_bot1" />
-        <item itemvalue="Python.euro_exchange_rate (1)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -162,54 +197,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596392096493</updated>
+      <workItem from="1603218013295" duration="3904000" />
+      <workItem from="1606033852157" duration="68000" />
+      <workItem from="1609789975394" duration="2898000" />
+      <workItem from="1609930533829" duration="766000" />
     </task>
+    <task id="LOCAL-00001" summary="new exercises">
+      <created>1598906451641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598906451641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new exercises">
+      <created>1599404844101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599404844101</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new exercises">
+      <created>1602706768620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602706768620</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new exercises">
+      <created>1603221553319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603221553319</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new exercises">
+      <created>1603221773355</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603221773355</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="142" key="FileChooserDialogImpl" timestamp="1596644836237">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="463" y="142" key="FileChooserDialogImpl/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1596644836237" />
-    <state width="1328" height="189" key="GridCell.Tab.0.bottom" timestamp="1598906224897">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1328" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598906224897" />
-    <state width="1328" height="189" key="GridCell.Tab.0.center" timestamp="1598906224897">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1328" height="189" key="GridCell.Tab.0.center/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598906224897" />
-    <state width="1328" height="189" key="GridCell.Tab.0.left" timestamp="1598906224897">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1328" height="189" key="GridCell.Tab.0.left/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598906224897" />
-    <state width="1328" height="189" key="GridCell.Tab.0.right" timestamp="1598906224897">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1328" height="189" key="GridCell.Tab.0.right/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598906224897" />
-    <state width="1328" height="236" key="GridCell.Tab.1.bottom" timestamp="1598906212555">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1328" height="236" key="GridCell.Tab.1.bottom/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598906212555" />
-    <state width="1328" height="236" key="GridCell.Tab.1.center" timestamp="1598906212555">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1328" height="236" key="GridCell.Tab.1.center/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598906212555" />
-    <state width="1328" height="236" key="GridCell.Tab.1.left" timestamp="1598906212555">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1328" height="236" key="GridCell.Tab.1.left/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598906212555" />
-    <state width="1328" height="236" key="GridCell.Tab.1.right" timestamp="1598906212555">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state width="1328" height="236" key="GridCell.Tab.1.right/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598906212555" />
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1598898295276">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="391" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598898295276" />
-    <state x="263" y="129" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598905435442">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="263" y="129" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.768/-1920.-383.1920.1080@0.0.1366.768" timestamp="1598905435442" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="new exercises" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -220,81 +268,36 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
+          <url>file://$PROJECT_DIR$/Codewars/Palindrome_Builder.py</url>
           <line>8</line>
-          <option name="timeStamp" value="15" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>9</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
+          <url>file://$PROJECT_DIR$/Codewars/Palindrome_Builder.py</url>
           <line>12</line>
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
+          <url>file://$PROJECT_DIR$/Codewars/Palindrome_Builder.py</url>
           <line>19</line>
-          <option name="timeStamp" value="26" />
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
+          <url>file://$PROJECT_DIR$/Codewars/Palindrome_Builder.py</url>
           <line>20</line>
-          <option name="timeStamp" value="27" />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Codewars/title_case.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="29" />
+          <url>file://$PROJECT_DIR$/Codewars/Right_in_the_Center.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_zadania$Tic_tac_toe.coverage" NAME="Tic_tac_toe Coverage Results" MODIFIED="1603221663912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First steps" />
+    <SUITE FILE_PATH="coverage/Python_zadania$palindrom.coverage" NAME="palindrom Coverage Results" MODIFIED="1609796093084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exercises" />
+    <SUITE FILE_PATH="coverage/Python_zadania$Right_in_the_Center.coverage" NAME="Right_in_the_Center Coverage Results" MODIFIED="1603221344169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Codewars" />
   </component>
 </project>
